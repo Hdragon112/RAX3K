@@ -44,7 +44,6 @@ jobs:
           cat /proc/cpuinfo | grep 'model name'
 
     - name: Maximize build space
-      if: inputs.build_firmware
       uses: smallprogram/maximize-build-space@master
       with:
           swap-size-mb: 1024
