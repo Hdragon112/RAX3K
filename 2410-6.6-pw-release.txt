@@ -2,4 +2,4 @@
 https://github.com/Yuzhii0718/immortalwrt-mt798x-6.6-padavanonly
 
 RAX3000m immortalwrt24.10（6.6内核+闭源MTK驱动）passwall版。
-默认IP地址：192.168.10.1
+默认IP地址：192.168.6.1
